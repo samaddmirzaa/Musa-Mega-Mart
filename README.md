@@ -31,13 +31,3 @@ This project is a data analyst work on **Musa MegaMart**, a multinational retail
 └── README.md
 ```
 
-
-## 🛠 Tech Stack
-
-![Python](https://img.shields.io/badge/Python-3.13-blue?logo=python)
-![Pandas](https://img.shields.io/badge/Pandas-2.x-150458?logo=pandas)
-![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-viz-11557c)
-
----
-
