@@ -5,7 +5,7 @@
 
 ## 📋 Project Overview
 
-This project simulates a real-world data analyst assignment: you've just joined **Musa MegaMart**, a multinational retail corporation, and have been handed a sample dataset from a retailer they're evaluating for acquisition. Your job is to dig into the sales history, understand the business's strengths, and assess whether their discount strategy can attract customers without eroding margin.
+This project is a data analyst work on **Musa MegaMart**, a multinational retail corporation, and we have been handed a sample dataset from a retailer they're evaluating for acquisition. The goal is to dig into the sales history, understand the business's strengths, and assess whether their discount strategy can attract customers without eroding margin.
 
 ---
 
