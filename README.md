@@ -41,6 +41,3 @@ This project simulates a real-world data analyst assignment: you've just joined 
 
 ---
 
-## 📄 License
-
-This project was completed as part of a data analytics curriculum. Data provided by Musa MegaMart, LLC © 2022.
